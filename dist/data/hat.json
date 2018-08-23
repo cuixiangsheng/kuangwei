@@ -1,0 +1,58 @@
+[
+	{
+	"name":"查看所有戴的最新商品",	
+	"man":[
+	
+	{	
+	"id":0,
+	"src":"//image.converse.com.cn/resources/product/10008706001/10008706001_1B_NEW.png?201808061748",
+	"title":"【女的】Converse x Hello Kitty Baseball Cap (APAC)",
+	"price":"¥269.00"
+	},
+	{	
+	"id":1,
+	"src":"//image.converse.com.cn/resources/product/10008211001/10008211001_1B_NEW.png?201808061748",
+	"title":"【男女同款】Converse x Hello Kitty Comms Pouch",
+	"price":"¥339.00"
+	},
+	{	
+	"id":2,
+	"src":"//image.converse.com.cn/resources/product/10008211281/10008211281_1B_NEW.png?201808061748",
+	"title":"【男女同款】Converse x Hello Kitty Comms Pouch",
+	"price":"¥339.00"
+	},
+	{	
+	"id":3,
+	"src":"//image.converse.com.cn/resources/product/10007636603/10007636603_1B_NEW.png?201808061748",
+	"title":"【男女同款】Lil Duffel",
+	"price":"¥299.00"
+	},
+	{	
+	"id":4,
+	"src":"//image.converse.com.cn/resources/product/10008706001/10008706001_1B_NEW.png?201808061748",
+	"title":"【女的】Converse x Hello Kitty Baseball Cap (APAC)",
+	"price":"¥269.00"
+	},
+	{	
+	"id":5,
+	"src":"//image.converse.com.cn/resources/product/10008211281/10008211281_1B_NEW.png?201808061748",
+	"title":"【男女同款】Converse x Hello Kitty Comms Pouch",
+	"price":"¥339.00"
+	},
+	{	
+	"id":6,
+	"src":"//image.converse.com.cn/resources/product/10007636603/10007636603_1B_NEW.png?201808061748",
+	"title":"【男女同款】Lil Duffel",
+	"price":"¥299.00"
+	},
+	{	
+	"id":7,
+	"src":"//image.converse.com.cn/resources/product/10008706001/10008706001_1B_NEW.png?201808061748",
+	"title":"【女的】Converse x Hello Kitty Baseball Cap (APAC)",
+	"price":"¥269.00"
+	},
+	
+	]
+	}	
+	
+]
